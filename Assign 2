@@ -1,0 +1,7 @@
+km= float(input("Enter the number of kilometers:"))
+Centimeters= 100000*km
+print(km,"km=",Centimeters,"Centimeters")
+ 
+output:
+   Enter the number of kilometers:5
+   5.0 km= 500000.0 Centimeters
